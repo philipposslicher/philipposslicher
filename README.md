@@ -6,9 +6,10 @@
 - 🐍 Cable wrangler
 
 ### Interests
-- Blockchain
-- Machine Learning
 - Flight simulation
+- Distributed systems
+- Kubernetes
+- Machine Learning
 - Cinematography
 
 
