@@ -14,7 +14,7 @@
 
 Currently working on `tropobase`, a flexible and observable datababase backup platform written in Rust 🚀.
 
-Previous working on `Lapsed`, a distributed time-lapse system (also written in Rust).
+Previous worked on `Lapsed`, a distributed time-lapse system (also written in Rust).
 
 
 ### Stats
