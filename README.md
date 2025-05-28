@@ -13,9 +13,9 @@
 - Cinematography
 
 
-Currently working on `tropobase`, a flexible and observable database backup platform written in Rust 🚀.
+Currently working on `tunnelfish`, a distributed VPN platform based on WireGuard.
 
-Previous worked on `Lapsed`, a distributed time-lapse system (also written in Rust).
+Previous worked on `tropobase`, a flexible and observable database backup platform written in Rust 🚀.
 
 
 ### Stats
